@@ -20,7 +20,7 @@ No **Javaverse**, cada projeto é uma missão:
 
 ## 🛠️ Tech Stack  
 
-- ☕ **Java 21** (última versão estável)  
+- ☕ **Java 21** 
 - 💻 IDEs: IntelliJ IDEA | VS Code | NetBeans  
 - 📝 **Git + Bash** para versionamento e exploração do código  
 
