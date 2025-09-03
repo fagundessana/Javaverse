@@ -1,7 +1,7 @@
 # 🌌 Javaverse
 ![Java](https://img.shields.io/badge/Java-21-informational?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Bash-informational?style=flat&logo=git&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-In%20Progress-purple)
 
 🚀 Bem-vindo(a) ao **Javaverse**, meu universo paralelo de Java!  
 Aqui, cada linha de código é uma estrela e cada projeto é uma constelação do meu aprendizado.  
