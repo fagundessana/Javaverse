@@ -22,15 +22,16 @@ Aqui, cada linha de código é uma estrela e cada projeto é uma constelação d
 
 ---
 
-## 🚀 Como rodar os projetos  
+## 🚀 Prepare-se para explorar
 
 ```bash
-# Clone o repositório
+# Clone o universo
 git clone https://github.com/seuusuario/javaverse.git
 
-# Entre na pasta
+# Entre na nave
 cd javaverse
 
-# Compile e execute (exemplo)
+# Compile e execute o projeto principal
 javac Main.java
 java Main
+
