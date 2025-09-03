@@ -14,9 +14,7 @@ Aqui, cada linha de código é uma estrela e cada projeto é uma constelação d
 No **Javaverse**, cada projeto é uma missão:  
 - Explorar o cosmos do **Java 21** ☕  
 - Testar minha lógica, POO e boas práticas    
-- Construir um portfólio que mostra minha evolução como desenvolvedora  
-
----
+- Construir um portfólio que mostra minha evolução
 
 ## 🛠️ Tech Stack  
 
